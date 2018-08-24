@@ -1,6 +1,4 @@
 //Przeliczanie sekund na minuty,godziny i dni.
-//Zadanie 4/119 z książki Język C++ Stephen Prata
-
 #include <iostream>
 
     const int minuta = 60;
