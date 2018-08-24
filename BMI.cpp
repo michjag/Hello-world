@@ -1,5 +1,4 @@
 //Obliczanie BMI w stopach, calach i funtach
-//Zadanie 2/118 z książki Język C++ Stephen Prata
 
 #include <iostream>
 using namespace std;
