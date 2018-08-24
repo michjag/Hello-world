@@ -1,5 +1,4 @@
 //przeliczanie lat świetlnych na jednostki astronoczmiczne
-//Zadanie 6/78 z książki Język C++ Stephen Prata
 #include <iostream>
 using namespace std;
 
