@@ -1,3 +1,4 @@
+//Liczba najbliżej średniej
 #include <iostream>
 #include <cmath>
 
