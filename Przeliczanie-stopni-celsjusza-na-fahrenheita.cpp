@@ -1,6 +1,4 @@
 //Przeliczanie stopni celsjusza na fahrenheita
-//Zadanie 5/78 z książki Język C++ Stephen Prata
-
 #include <iostream>
 using namespace std;
 
