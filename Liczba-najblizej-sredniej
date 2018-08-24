@@ -5,12 +5,8 @@ using namespace std;
 
 double a,b,c,d,e,najbl,srednia;
 
-
 int main()
-
 {
-
-
 cout <<"Podaj piec liczb"<<endl;
 
 cin>>a;
