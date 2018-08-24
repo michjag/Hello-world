@@ -1,5 +1,4 @@
 //Obliczanie stopni geograficznych
-//Zadanie 3/118 z książki Język C++ Stephen Prata
 #include <iostream>
 
 double Obliczanie(double stop, double min, double sek);
